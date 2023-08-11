@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi, I'm Jonathan 👋
 
-<!--
-**theChantu/theChantu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Full Stack Developer with a strong interest in web development and a constant drive to learn and explore new technologies. My goal is to create engaging, user-friendly web applications that deliver a seamless experience to users.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 Currently working on any project idea that interests me
+- 🌱 Learning and experimenting with Rust
+- 🎓 Studying web development
+
+## Tech Stack
+
+- **Frontend:** HTML, CSS, JavaScript, TypeScript, React, Svelte
+- **Backend:** Node.js, Python (Flask/Django)
+- **Database:** MongoDB, sqlite3
+- **Tools & Other Skills:** Git, RESTful APIs, UI/UX Design
+
+## Get in Touch
+
+- 📫 How to reach me: [Email Address](mailto:jonmsmall1030@gmail.com)
+- 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/jonathan-s-8277741ba)
+- 🌐 Visit my portfolio website: [Portfolio](https://thechantu.github.io)
+
+Let's connect and collaborate on exciting web development projects!
